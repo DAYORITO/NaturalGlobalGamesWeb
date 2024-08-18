@@ -70105,7 +70105,7 @@ ud(a){return this.a4I(a)},
 a4I(a){var s=0,r=A.S(t.b5),q,p
 var $async$ud=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:s=3
-return A.U(A.aBt(A.fx("http://localhost:5182/"+a)),$async$ud)
+return A.U(A.aBt(A.fx("https://naturalglobalgamesapi.onrender.com/"+a)),$async$ud)
 case 3:p=c
 if(p.b===200){q=J.PK(B.cd.KV(A.aBg(A.az9(p.e).c.a.j(0,"charset")).dY(p.w),null),t.a)
 s=1
