@@ -70071,7 +70071,7 @@ A.a9N.prototype={
 $2(a,b){var s,r,q,p=null,o=A.b([A.afi(p,B.AZ,new A.a9K(a),p,p),A.afi(p,B.B_,new A.a9L(),p,p)],t.F),n=this.b,m=n*0.5
 m=A.pN("NaturalGlobalGames",A.kC(p,p,B.i,p,p,p,p,p,p,p,p,m>15?15:m,p,p,B.au,p,p,!0,p,p,p,p,p,p,p,p),p)
 s=A.Y(B.c.a8(127.5),0,0,0)
-r=A.ajw("dawn1.jpg",p)
+r=A.ajw("assets/dawn1.jpg",p)
 q=this.a
 return new A.mH(!0,new A.rw(m,o,B.z,new A.M2(p,p,1/0,56),p),A.lt(p,new A.oh(q.d.ud("api/Games"),new A.a9M(q,n,this.c),p,t.PN),p,p,new A.fb(p,new A.o1(r.c,new A.Tw(s,B.wX),B.cQ,1),p,p,p,p,B.bm),p,p,p,p),p)},
 $S:425}
